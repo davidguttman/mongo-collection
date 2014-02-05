@@ -19,7 +19,7 @@
   "license": "BSD",
   "dependencies": {
     "mongoskin": "~0.5.0",
-    "event-stream": "~3.0.16"
+    "event-stream": "git+ssh://git@github.com:Interlincx/event-stream.git#f5c34"
   },
   "readmeFilename": "README.md",
   "gitHead": "44098cd35555f23fefad50af7e3c3e9761d3f59c",
